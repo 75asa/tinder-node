@@ -4,7 +4,7 @@
   "description": "",
   "main": "./scripts/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node scripts/index.js"
   },
   "author": "",
   "license": "ISC",
@@ -16,7 +16,7 @@
     "puppeteer": "^1.12.2",
     "request": "^2.88.0",
     "request-promise": "^4.2.2",
-    "tinder-client": "^3.0.1",
+    "tinder-client": "^4.1.3",
     "xml-js": "^1.6.11",
     "xmlhttprequest": "^1.8.0"
   }
